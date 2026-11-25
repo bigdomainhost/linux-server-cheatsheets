@@ -1,6 +1,6 @@
 # SSH cheat sheet
 
-Full guides: [SSH keys](https://bigdomainhost.com/guide-ssh-keys.html) · [SSH tunnels](https://bigdomainhost.com/guide-ssh-tunnel.html)
+Full guides: [SSH keys](https://bigdomainhost.in/guide-ssh-keys.html) · [SSH tunnels](https://bigdomainhost.in/guide-ssh-tunnel.html)
 
 ## Keys
 

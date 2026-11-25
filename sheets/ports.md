@@ -1,6 +1,6 @@
 # Ports cheat sheet (hosting)
 
-Full guides: [Email port numbers](https://bigdomainhost.com/guide-email-port-numbers.html) · [cPanel port numbers](https://bigdomainhost.com/guide-cpanel-port-numbers.html)
+Full guides: [Email port numbers](https://bigdomainhost.in/guide-email-port-numbers.html) · [cPanel port numbers](https://bigdomainhost.in/guide-cpanel-port-numbers.html)
 
 ## Web, shell and files
 

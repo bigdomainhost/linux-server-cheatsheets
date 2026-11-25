@@ -1,6 +1,6 @@
 # File transfer cheat sheet
 
-Full guides: [FTP vs SFTP vs FTPS](https://bigdomainhost.com/guide-ftp-vs-sftp-vs-ftps.html) · [SFTP and scp](https://bigdomainhost.com/guide-sftp-scp.html)
+Full guides: [FTP vs SFTP vs FTPS](https://bigdomainhost.in/guide-ftp-vs-sftp-vs-ftps.html) · [SFTP and scp](https://bigdomainhost.in/guide-sftp-scp.html)
 
 ## Pick the protocol first, the port follows
 

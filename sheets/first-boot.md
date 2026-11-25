@@ -1,6 +1,6 @@
 # Ubuntu VPS first-boot checklist
 
-Full guide: [Ubuntu 24.04 VPS initial setup](https://bigdomainhost.com/guide-ubuntu-vps-initial-setup.html) · Script version: [bigdomainhost/vps-first-boot](https://github.com/bigdomainhost/vps-first-boot)
+Full guide: [Ubuntu 24.04 VPS initial setup](https://bigdomainhost.in/guide-ubuntu-vps-initial-setup.html) · Script version: [bigdomainhost/vps-first-boot](https://github.com/bigdomainhost/vps-first-boot)
 
 Written for Ubuntu 24.04 LTS (most steps also apply to 22.04 and Debian 12). About 15 minutes.
 
@@ -128,6 +128,6 @@ Then take a snapshot in your provider's panel. A snapshot lives on the same plat
 
 ## Next
 
-- Point a domain: [guide](https://bigdomainhost.com/guide-point-domain-to-vps.html)
-- Deploy a Python app behind Nginx: [guide](https://bigdomainhost.com/guide-deploy-python-app-vps.html)
-- Size RAM: [guide](https://bigdomainhost.com/guide-how-much-ram-does-a-vps-need.html)
+- Point a domain: [guide](https://bigdomainhost.in/guide-point-domain-to-vps.html)
+- Deploy a Python app behind Nginx: [guide](https://bigdomainhost.in/guide-deploy-python-app-vps.html)
+- Size RAM: [guide](https://bigdomainhost.in/guide-how-much-ram-does-a-vps-need.html)

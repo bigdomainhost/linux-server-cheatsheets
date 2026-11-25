@@ -1,6 +1,6 @@
 # npm cheat sheet: cache, lockfiles, npm vs pnpm
 
-Full guides: [npm cache clean](https://bigdomainhost.com/guide-npm-cache-clean.html) · [npm vs pnpm](https://bigdomainhost.com/guide-npm-vs-pnpm.html)
+Full guides: [npm cache clean](https://bigdomainhost.in/guide-npm-cache-clean.html) · [npm vs pnpm](https://bigdomainhost.in/guide-npm-vs-pnpm.html)
 
 ## Three layers, three resets
 
