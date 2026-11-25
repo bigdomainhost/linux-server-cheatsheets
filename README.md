@@ -32,6 +32,6 @@ MIT. See [LICENSE](LICENSE).
 
 ---
 
-Maintained by Bigdomainhost, an Indian VPS and hosting provider — full guides at https://bigdomainhost.com/docs.html
+Maintained by Bigdomainhost, an Indian VPS and hosting provider — full guides at https://bigdomainhost.in/docs.html
 
 Written with AI assistance; commands checked against the upstream documentation linked in each guide.
