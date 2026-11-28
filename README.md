@@ -1,6 +1,6 @@
 # linux-server-cheatsheets
 
-Short, dense reference sheets for the jobs that come up again and again on a Linux server: SSH, ports, moving files, npm, HTTP errors and the first boot of a new VPS. Each sheet is one page of commands you can copy, with a link at the top to a longer guide that explains the why.
+Short, dense reference sheets for the jobs that come up again and again on a Linux server: SSH, ports, moving files, npm, HTTP errors, the first boot of a new VPS, Let's Encrypt certificates, the UFW firewall and reaching a Windows server over RDP. Each sheet is one page of commands you can copy, with a link at the top to a longer guide that explains the why.
 
 Commands are written for Ubuntu 24.04 LTS and Debian 12 unless a line says otherwise. Most work unchanged on other distributions; where the service or package name differs (for example `ssh` vs `sshd`), the sheet says so.
 
@@ -14,6 +14,9 @@ Commands are written for Ubuntu 24.04 LTS and Debian 12 unless a line says other
 | [npm.md](sheets/npm.md) | npm cache, lockfiles, `npm ci`, npm vs pnpm command map |
 | [http-errors.md](sheets/http-errors.md) | 403, 500, 502, 503, 504 and Chrome `ERR_` codes, each with a one-line first check |
 | [first-boot.md](sheets/first-boot.md) | Ubuntu VPS first-boot checklist: sudo user, key-only SSH, ufw, updates, swap, snapshot |
+| [ssl-certbot.md](sheets/ssl-certbot.md) | Let's Encrypt with Certbot on Nginx: DNS/AAAA and port 80 pre-checks, snap install, issuing, `renew --dry-run`, deploy hook, error table, DNS-01 |
+| [firewall-ufw.md](sheets/firewall-ufw.md) | UFW without the lockout: safe enable order, SSH rule variants, web and database rules, status, deleting rules, Docker gap, recovery |
+| [rdp-windows.md](sheets/rdp-windows.md) | RDP can't connect: port 3389 test from Windows/Linux, server-side checks, "internal error", CredSSP, custom port, FreeRDP from Ubuntu |
 
 ## Conventions
 
